@@ -1,16 +1,14 @@
-<em> # Hola Mundo 👋🏻 </em>
+<h1>Hello World 👋🏻</h1>
 
-<!--
-**sergioAff/sergioAff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I am Sergio Adrian </h2>
 
-Here are some ideas to get you started:
+<h2>An cuban Web Developper 🇨🇺</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Actually, I am studying Computer Engineering </h3>
+
+<ul>Do you want to contact to me❓
+  <li><strong>Gmail: </strong>sergioadrianfernandez02@gmail.com</li>
+  <li><strong>Instagram: </strong>www.instagram.com/sergio_aff</li>
+</ul>
+
+
