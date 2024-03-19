@@ -9,6 +9,7 @@
 <ul>Do you want to contact to me❓
   <li><strong>Gmail: </strong>sergioadrianfernandez02@gmail.com</li>
   <li><strong>Instagram: </strong>www.instagram.com/sergio_aff</li>
+  <li><strong>Linkedin: </strong>www.linkedin.com/in/sergio-adrian-fernández</li>
 </ul>
 
 
