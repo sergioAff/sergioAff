@@ -4,7 +4,7 @@
 
 <h2>I am Sergio Adrian </h2>
 
-<h2>An cuban Web Developper 🇨🇺</h2>
+<h2>A cuban Web Developper 🇨🇺</h2>
 
 <h3>Actually, I am studying Computer Engineering </h3>
 
