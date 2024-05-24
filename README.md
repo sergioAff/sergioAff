@@ -16,7 +16,6 @@
 
 <hr>
 
-Sí, puedes usar la etiqueta <a> (ancla) para crear un enlace que abra el cliente de correo electrónico con la dirección de email:
 
 <ul>¿Quieres contactarme❓?
   <li><strong>Gmail: </strong><a href="mailto:sergioadrianfernandez02@gmail.com">sergioadrianfernandez02@gmail.com</a></li>
@@ -24,4 +23,3 @@ Sí, puedes usar la etiqueta <a> (ancla) para crear un enlace que abra el client
   <li><strong>Linkedin: </strong>www.linkedin.com/in/sergio-adrian-fernández</li>
 </ul>
 
-Cuando un usuario haga clic en el enlace del email, se abrirá su cliente de correo predeterminado con la dirección ya ingresada en el campo "Para".
