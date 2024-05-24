@@ -24,7 +24,7 @@ I am passionate about web development and continuously learning new technologies
 
 # ¡Hola Mundo 👋🏻!
 
-## Soy Sergio Adrián
+## Soy Sergio Adrian
 
 ### Un Desarrollador Web cubano 🇨🇺
 
