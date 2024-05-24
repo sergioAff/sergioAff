@@ -8,7 +8,13 @@ Currently, I am studying Computer Engineering.
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 About Me
+
+I am passionate about web development and continuously learning new technologies. My journey in the tech world started with a fascination for how things work on the web, and it has evolved into a full-blown love for coding and problem-solving.
+
+---
+
+## 🌐 Connect with Me
 
 - **Email**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
 - **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
@@ -26,7 +32,13 @@ Actualmente, estoy estudiando Ingeniería Informática.
 
 ---
 
-### 🌐 Conéctate conmigo
+## 🚀 Sobre Mí
+
+Soy un apasionado del desarrollo web y estoy en constante aprendizaje de nuevas tecnologías. Mi viaje en el mundo de la tecnología comenzó con una fascinación por cómo funcionan las cosas en la web, y ha evolucionado en un amor total por la programación y la resolución de problemas.
+
+---
+
+## 🌐 Conéctate Conmigo
 
 - **Correo Electrónico**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
 - **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
