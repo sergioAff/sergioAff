@@ -1,27 +1,33 @@
-<h1>Hello World 👋🏻</h1>
+# Hello World 👋🏻
 
-<h2>I am Sergio Adrian</h2>
+## I am Sergio Adrian
 
-<h2>A cuban Web Developer 🇨🇺</h2>
+### A Cuban Web Developer 🇨🇺
 
-<h3>Actually, I am studying Computer Engineering</h3>
+Currently, I am studying Computer Engineering.
 
-<ul>Do you want to contact me❓
-  <li><strong>Gmail: </strong><a href="mailto:sergioadrianfernandez02@gmail.com">sergioadrianfernandez02@gmail.com</a></li>
-  <li><strong>Instagram: </strong>www.instagram.com/sergio_aff</li>
-  <li><strong>Linkedin: </strong>www.linkedin.com/in/sergio-adrian-fernández</li>
-</ul>
+---
 
-<h1>¡Hola Mundo 👋🏻!</h1>
+### 🌐 Connect with Me
 
-<h2>Soy Sergio Adrián</h2>
+- **Email**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
+- **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
+- **LinkedIn**: [Sergio Adrian Fernández](https://www.linkedin.com/in/sergio-adrian-fernández)
 
-<h2>Un Desarrollador Web cubano 🇨🇺</h2>
+---
 
-<h3>Actualmente, estoy estudiando Ingeniería Informática</h3>
+# ¡Hola Mundo 👋🏻!
 
-<ul>¿Quieres contactarme❓
-  <li><strong>Gmail: </strong><a href="mailto:sergioadrianfernandez02@gmail.com">sergioadrianfernandez02@gmail.com</a></li>
-  <li><strong>Instagram: </strong>www.instagram.com/sergio_aff</li>
-  <li><strong>Linkedin: </strong>www.linkedin.com/in/sergio-adrian-fernández</li>
-</ul>
+## Soy Sergio Adrián
+
+### Un Desarrollador Web cubano 🇨🇺
+
+Actualmente, estoy estudiando Ingeniería Informática.
+
+---
+
+### 🌐 Conéctate conmigo
+
+- **Correo Electrónico**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
+- **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
+- **LinkedIn**: [Sergio Adrian Fernández](https://www.linkedin.com/in/sergio-adrian-fernández)
