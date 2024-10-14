@@ -16,6 +16,7 @@ I am passionate about web development and continuously learning new technologies
 
 ## 🌐 Connect with Me
 
+- **Web**: [https://sergiofernandez.netlify.app/](https://sergiofernandez.netlify.app/)
 - **Email**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
 - **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
 - **LinkedIn**: [Sergio Adrian Fernández](https://www.linkedin.com/in/sergio-adrian-fernández)
@@ -40,6 +41,7 @@ Soy un apasionado del desarrollo web y estoy en constante aprendizaje de nuevas 
 
 ## 🌐 Conéctate Conmigo
 
+- **Web**: [https://sergiofernandez.netlify.app/](https://sergiofernandez.netlify.app/)
 - **Correo Electrónico**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
 - **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
 - **LinkedIn**: [Sergio Adrian Fernández](https://www.linkedin.com/in/sergio-adrian-fernández)
