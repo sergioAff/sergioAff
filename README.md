@@ -10,7 +10,7 @@ Currently, I am studying Computer Engineering.
 
 ## 🚀 About Me
 
-I am passionate about web development and continuously learning new technologies. My journey in the tech world started with a fascination for how things work on the web, and it has evolved into a full-blown love for coding and problem-solving.
+Full Stack Developer with solid experience in developing scalable and optimized web applications, always focused on efficiency. My passion for technological innovation is complemented by a constant commitment to learning and incorporating the best practices and tools in the industry. With a strong focus on problem-solving and teamwork, I am interested in adding value to challenging projects and contributing to the success of organizations leading digital transformation..
 
 ---
 
@@ -35,7 +35,7 @@ Actualmente, estoy estudiando Ingeniería Informática.
 
 ## 🚀 Sobre Mí
 
-Soy un apasionado del desarrollo web y estoy en constante aprendizaje de nuevas tecnologías. Mi viaje en el mundo de la tecnología comenzó con una fascinación por cómo funcionan las cosas en la web, y ha evolucionado en un amor total por la programación y la resolución de problemas.
+Desarrollador Full Stack con una sólida experiencia en el desarrollo de aplicaciones web escalables y optimizadas, siempre orientadas hacia la eficiencia. Mi pasión por la innovación tecnológica se complementa con un compromiso constante hacia el aprendizaje y la incorporación de las mejores prácticas y herramientas del sector. Con un enfoque marcado en la resolución de problemas y el trabajo en equipo, estoy interesado en aportar valor en proyectos desafiantes y contribuir al éxito de organizaciones que lideran la transformación digital..
 
 ---
 
