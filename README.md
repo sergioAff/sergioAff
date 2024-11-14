@@ -1,16 +1,17 @@
+
 # Hello World 👋🏻
 
 ## I am Sergio Adrian
 
-### A Cuban Web Developer 🇨🇺
+### A Cuban Web Developer 🇨🇺 currently living in Montevideo, Uruguay
 
-Currently, I am studying Computer Engineering.
+I am currently studying Computer Engineering while building a solid background as a Full Stack Developer, with a focus on frontend development.
 
 ---
 
 ## 🚀 About Me
 
-Full Stack Developer with solid experience in developing scalable and optimized web applications, always focused on efficiency. My passion for technological innovation is complemented by a constant commitment to learning and incorporating the best practices and tools in the industry. With a strong focus on problem-solving and teamwork, I am interested in adding value to challenging projects and contributing to the success of organizations leading digital transformation..
+Full Stack Developer with solid experience in creating scalable, high-performance web applications. My passion for technology and innovation drives me to continuously learn and integrate industry best practices. Focused on problem-solving and teamwork, I'm committed to adding value to challenging projects and contributing to the success of organizations leading digital transformation.
 
 ---
 
@@ -27,15 +28,15 @@ Full Stack Developer with solid experience in developing scalable and optimized 
 
 ## Soy Sergio Adrian
 
-### Un Desarrollador Web cubano 🇨🇺
+### Un Desarrollador Web cubano 🇨🇺, actualmente viviendo en Montevideo, Uruguay
 
-Actualmente, estoy estudiando Ingeniería Informática.
+Estoy cursando Ingeniería Informática mientras desarrollo una sólida trayectoria como Desarrollador Full Stack, enfocado principalmente en el desarrollo frontend.
 
 ---
 
 ## 🚀 Sobre Mí
 
-Desarrollador Full Stack con una sólida experiencia en el desarrollo de aplicaciones web escalables y optimizadas, siempre orientadas hacia la eficiencia. Mi pasión por la innovación tecnológica se complementa con un compromiso constante hacia el aprendizaje y la incorporación de las mejores prácticas y herramientas del sector. Con un enfoque marcado en la resolución de problemas y el trabajo en equipo, estoy interesado en aportar valor en proyectos desafiantes y contribuir al éxito de organizaciones que lideran la transformación digital..
+Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web escalables y de alto rendimiento. Mi pasión por la tecnología e innovación me impulsa a aprender constantemente y a integrar las mejores prácticas del sector. Enfocado en la resolución de problemas y el trabajo en equipo, busco aportar valor en proyectos desafiantes y contribuir al éxito de organizaciones líderes en transformación digital.
 
 ---
 
@@ -45,3 +46,5 @@ Desarrollador Full Stack con una sólida experiencia en el desarrollo de aplicac
 - **Correo Electrónico**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
 - **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
 - **LinkedIn**: [Sergio Adrian Fernández](https://www.linkedin.com/in/sergio-adrian-fernández)
+
+---
