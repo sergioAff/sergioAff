@@ -1,6 +1,6 @@
 ## Hi, I'm Sergio 👋
 
-**iOS Engineer** based in Montevideo, Uruguay 🇺🇾 — Cuban 🇨🇺, and building
+**iOS Engineer** based in Montevideo, Uruguay 🇺🇾, Cuban 🇨🇺, and building
 native Apple experiences with Swift 6 and SwiftUI.
 
 I take apps from architecture to App Store review: strict concurrency, Clean
@@ -10,13 +10,13 @@ client, I build that too.
 
 ### 📱 Shipped
 
-**[StreakFlows](https://apps.apple.com/uy/app/streakflows/id6774435711)** — habit
+**[StreakFlows](https://apps.apple.com/uy/app/streakflows/id6774435711)**, habit
 and streak tracker, live on the App Store. Built solo: SwiftUI, a WidgetKit timer
 extension, StoreKit 2 in-app purchases, unit tested.
 
 ### 🔨 Building
 
-**[LensCal](https://github.com/sergioAff/LensCal)** — calorie tracker that logs a
+**[LensCal](https://github.com/sergioAff/LensCal)**, calorie tracker that logs a
 meal from a single photo. Swift 6 with strict concurrency, Clean Architecture
 across Domain/Data/Presentation/Infrastructure, on-device Core ML and Vision,
 HealthKit, SwiftData, WidgetKit with App Intents.
