@@ -17,7 +17,7 @@ Full Stack Developer with solid experience in creating scalable, high-performanc
 
 ## 🌐 Connect with Me
 
-- **Web**: [https://sergiofernandez.netlify.app/](https://sergiofernandez.netlify.app/)
+- **Web**: [https://portfolio-swift.vercel.app/en](https://portfolio-swift.vercel.app/en)
 - **Email**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
 - **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
 - **LinkedIn**: [Sergio Adrian Fernández](https://www.linkedin.com/in/sergio-adrian-fernández)
