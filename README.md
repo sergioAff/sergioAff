@@ -37,14 +37,3 @@ Estoy cursando Ingeniería Informática mientras desarrollo una sólida trayecto
 ## 🚀 Sobre Mí
 
 Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones escalables y de alto rendimiento. Mi pasión por la tecnología e innovación me impulsa a aprender constantemente y a integrar las mejores prácticas del sector. Enfocado en la resolución de problemas y el trabajo en equipo, busco aportar valor en proyectos desafiantes y contribuir al éxito de organizaciones líderes en transformación digital.
-
----
-
-## 🌐 Conéctate Conmigo
-
-- **Web**: [https://sergiofernandez.netlify.app/](https://sergiofernandez.netlify.app/)
-- **Correo Electrónico**: [sergioadrianfernandez02@gmail.com](mailto:sergioadrianfernandez02@gmail.com)
-- **Instagram**: [@sergio_aff](https://www.instagram.com/sergio_aff)
-- **LinkedIn**: [Sergio Adrian Fernández](https://www.linkedin.com/in/sergio-adrian-fernández)
-
----
